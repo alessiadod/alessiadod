@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @alessia
 - 👀 I’m interested in underground/oldies music, sewing and reading
-- 🌱 I’m currently learning coding and sewing
 - 💞️ I’m looking to collaborate on web developement to build a better planet
-- 📫 Slack 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I played in a all women band.
 
